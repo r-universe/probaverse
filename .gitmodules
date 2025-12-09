@@ -5,3 +5,9 @@
 [submodule "distionary"]
 	path = distionary
 	url = https://github.com/probaverse/distionary
+[submodule "distplyr"]
+	path = distplyr
+	url = https://github.com/probaverse/distplyr
+[submodule "famish"]
+	path = famish
+	url = https://github.com/probaverse/famish
