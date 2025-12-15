@@ -11,3 +11,6 @@
 [submodule "famish"]
 	path = famish
 	url = https://github.com/probaverse/famish
+[submodule "probaverse"]
+	path = probaverse
+	url = https://github.com/probaverse/probaverse
